@@ -1,4 +1,5 @@
-import pandas
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import numpy
 
@@ -21,3 +22,5 @@ class LSTM():
     def forward(self, X):
         logits = self.model(X)
         return logits
+    
+data = pd.read_csv('Data/data_with_weather.csv')
