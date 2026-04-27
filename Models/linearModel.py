@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 
-file=pd.read_csv("cleaned_data.csv")
+file=pd.read_csv('Data/cleaned_data.csv')
 
 file['datetime']=pd.to_datetime(file['datetime'])
 
@@ -55,4 +55,4 @@ print("Erreur moyenne :"+str(mean)+" passagers")
 
 
 # Save the results of the Linear Model
-#file.to_csv("resultsLinearModel.csv",index=False)
+file.to_csv("Results/resultsLinearModel.csv",index=False)

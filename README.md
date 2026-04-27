@@ -17,4 +17,4 @@ This project implements a simple Linear Model for data analysis and prediction.
 Install the required dependencies with:
 
 ```bash
-pip install pandas numpy scikit-learn
+pip install pandas numpy scikit-learn keras xgboost
