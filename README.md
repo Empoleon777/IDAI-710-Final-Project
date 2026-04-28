@@ -1,7 +1,7 @@
 # IDAI-710-Final-Project
 
 ## Linear Model
-This project implements a simple Linear Model for data analysis and prediction.
+This project implements a simple Linear Model for analyzing transportation data and predicting future trends.
 
 ---
 
@@ -17,7 +17,7 @@ This project implements a simple Linear Model for data analysis and prediction.
 ---
 
 ## Installation
-Install the required dependencies with:
+Install the required dependencies either with requirements.txt, or with:
 
 ```bash
 pip install pandas numpy scikit-learn keras xgboost matplotlib
