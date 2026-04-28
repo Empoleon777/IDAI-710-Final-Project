@@ -9,12 +9,15 @@ This project implements a simple Linear Model for data analysis and prediction.
 - Python 3.9 or higher  
 - Required libraries:
   - pandas  
-  - numpy  
+  - numpy
   - scikit-learn  
+  - xgboost
+  - keras
+  - matplotlib
 ---
 
 ## Installation
 Install the required dependencies with:
 
 ```bash
-pip install pandas numpy scikit-learn keras xgboost
+pip install pandas numpy scikit-learn keras xgboost matplotlib
