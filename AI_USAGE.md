@@ -17,3 +17,9 @@ Relevant chats:
 # Valbona
 
 # Enzo
+I also mainly used AI to debug very unexpected errors in Python. Not knowing in detail some libraries so it was very useful to me, especially for data processing with libraries like pandas and sklearn.
+
+I also used it sometimes for translating text coming from the web or some parts that I had first written in my original language. Concerning some passages that are very difficult to explain in another language without losing details.
+
+It also helped me understand why I was getting negative demands even though they could not mathematically be negative. To understand that it was actually possible and that it was just a model trying to represent reality in the end.
+By adding a lot of new features, the model was never more efficient and even worse. I felt lost, but it was the addition of redundant and unnecessary data that was causing all of this.
