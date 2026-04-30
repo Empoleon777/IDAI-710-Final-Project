@@ -6,6 +6,8 @@ This project implements a simple Linear Model for analyzing transportation data 
 
 ## Operation
 You can examine the individual models and their performance in src/Models. Simply running everything all the way through will show you the whole process, and will save a graph to the Graphs folder. The Results folder contains additional spreadsheets comparing the differences between actual test data and what the models predicted.
+
+The optimization code is in src/Notebooks. There isn't much to this one beyond just running it; the first part is identical to the XGBoost model, while the actual important part is below that.
 ---
 
 ## Requirements
