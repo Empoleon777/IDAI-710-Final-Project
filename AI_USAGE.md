@@ -15,6 +15,10 @@ Relevant chats:
 * https://chatgpt.com/share/69f2c615-0d1c-83ea-b2b2-6dcc611b1d9b
 
 # Valbona
+My Claude usage was mainly around debugging the optimization component. When my code was not producing the results I expected, I would share the error or the output with Claude to get a better understanding of what was going wrong. Claude would suggest fixes and explain why the issue was occurring, but I would then adapt those suggestions to fit our specific case rather than copying them directly. For example when the optimization results were not aligning with what the paper described, I used Claude to think through the logic and adjust the implementation accordingly. 
+
+I also made use of ChatGPT throughout the project, mainly for understanding explanations and concepts that were difficult to grasp, since English is my second language. Whenever I encountered a passage or a technical explanation that was hard to follow, ChatGPT helped me understand it in a clearer and more accessible way, which made it significantly easier to contribute meaningfully to both the code and the paper.
+
 
 # Enzo
 I also mainly used AI to debug very unexpected errors in Python. Not knowing in detail some libraries so it was very useful to me, especially for data processing with libraries like pandas and sklearn.
